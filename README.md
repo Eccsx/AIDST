@@ -81,6 +81,8 @@ Ashish. (2019, March). Housing Dataset, Version 1. Retrieved 11 July, 2022 from 
 
 UCI Machine Learning. (2016, September). Breast Cancer Wisconsin (Diagnostic) Data Set, Version 2. Retrieved 11 July, 2022 from https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/versions/2.
 
+fedesoriano. (2021, September). Heart Failure Prediction Dataset. Retrieved 20 July, 2022 from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <!-- LICENSE -->
