@@ -83,6 +83,8 @@ UCI Machine Learning. (2016, September). Breast Cancer Wisconsin (Diagnostic) Da
 
 fedesoriano. (2021, September). Heart Failure Prediction Dataset. Retrieved 20 July, 2022 from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
+Matuszewski, Damian; Sintorn, Ida-Maria (2021), “TEM virus dataset”, Mendeley Data, V3, doi: 10.17632/x4dwwfwtw3.3
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <!-- LICENSE -->
