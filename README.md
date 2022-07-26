@@ -61,7 +61,7 @@ This repository gathers all the notebooks I used to summarize all the course not
 
 - [ ] Machine Learning Specialization
 	+ [x] Supervised Machine Learning
-	+ [ ] Advanced Learning Algorithms
+	+ [X] Advanced Learning Algorithms
 	+ [ ] Unsupervised Learning, Recommenders, Reinforcement Learning
 - [ ] Deep Learning Specialization
 	+ [ ] Neural Networks and Deep Learning
@@ -84,6 +84,8 @@ UCI Machine Learning. (2016, September). Breast Cancer Wisconsin (Diagnostic) Da
 fedesoriano. (2021, September). Heart Failure Prediction Dataset. Retrieved 20 July, 2022 from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
 Matuszewski, Damian; Sintorn, Ida-Maria (2021), “TEM virus dataset”, Mendeley Data, V3, doi: 10.17632/x4dwwfwtw3.3
+
+Zhou, Jingmin et al. (2021), Prediction model of in-hospital mortality in intensive care unit patients with heart failure: machine learning-based, retrospective analysis of the MIMIC-III database, Dryad, Dataset, https://doi.org/10.5061/dryad.0p2ngf1zd
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
