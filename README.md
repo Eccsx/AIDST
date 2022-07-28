@@ -69,7 +69,7 @@ This repository gathers all the notebooks I used to summarize all the course not
 	+ [ ] Structuring Machine Learning Projects
 	+ [ ] Convolutional Neural Networks
 	+ [ ] Sequence Models
-- [ ] Data Science in Stratified Healthcare and Precision Medicine
+- [X] Data Science in Stratified Healthcare and Precision Medicine
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
