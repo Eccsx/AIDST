@@ -52,6 +52,8 @@ This repository gathers all the notebooks I used to summarize all the course not
   	+ [pandas](https://pandas.pydata.org/)
   	+ [scikit-learn](https://scikit-learn.org/stable/index.html)
   	+ [seaborn](https:/seaborn.pydata.org/)
+  	+ [TensorFlow](https://www.tensorflow.org/)
+  	+ [XGBoost](https://xgboost.ai/)
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
