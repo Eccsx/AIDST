@@ -89,6 +89,8 @@ Matuszewski, Damian; Sintorn, Ida-Maria (2021), “TEM virus dataset”, Mendele
 
 Zhou, Jingmin et al. (2021), Prediction model of in-hospital mortality in intensive care unit patients with heart failure: machine learning-based, retrospective analysis of the MIMIC-III database, Dryad, Dataset, https://doi.org/10.5061/dryad.0p2ngf1zd
 
+HCV data. (2020). UCI Machine Learning Repository.
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <!-- LICENSE -->
