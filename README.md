@@ -91,6 +91,8 @@ Zhou, Jingmin et al. (2021), Prediction model of in-hospital mortality in intens
 
 HCV data. (2020). UCI Machine Learning Repository.
 
+Goldstein, Markus, 2015, "annthyroid-unsupervised-ad.tab", Unsupervised Anomaly Detection Benchmark, https://doi.org/10.7910/DVN/OPQMVF/CJURKL, Harvard Dataverse, V1, UNF:6:jJUwpBJ4iBlQto8WT6zsUg== [fileUNF]
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <!-- LICENSE -->
