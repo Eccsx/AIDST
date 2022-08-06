@@ -61,10 +61,10 @@ This repository gathers all the notebooks I used to summarize all the course not
 
 ## Roadmap
 
-- [ ] Machine Learning Specialization
+- [X] Machine Learning Specialization
 	+ [x] Supervised Machine Learning
 	+ [X] Advanced Learning Algorithms
-	+ [ ] Unsupervised Learning, Recommenders, Reinforcement Learning
+	+ [X] Unsupervised Learning, Recommenders, Reinforcement Learning
 - [ ] Deep Learning Specialization
 	+ [ ] Neural Networks and Deep Learning
 	+ [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
