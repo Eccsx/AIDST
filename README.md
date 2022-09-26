@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://github.com/Eccsx/Machine-Learning-Specialization">
-        <img src="https://about.coursera.org/static/blueCoursera-646f855eae3d677239ea9db93d6c9e17.svg" alt="Logo" height="80">
+        <img src="https://d3irk3g7luh32r.cloudfront.net/wp-content/uploads/sites/7/2015/06/beach_computer.jpg" alt="Logo" height="80">
     </a>
     <h3 align="center">AI & Data Science Training</h3>
     <p align="center">
@@ -34,7 +34,7 @@ I chose to dedicate my summer holidays to learning this new subject to ensure I 
 Therefore I decided to go with the following:
 
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), offered by DeepLearning.AI and Standford University
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), offered by DeepLearning.AI
+- [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), offered by Udacity
 - [Data Science in Stratified Healthcare and Precision Medicine](https://www.coursera.org/learn/datascimed), offered by the University of Edinburgh
 
 I set myself a learning pace of 32 hours per week for an overall completion time of about two months.
@@ -50,6 +50,7 @@ This repository gathers all the notebooks I used to summarize all the course not
 	+ [matplotlib](https://matplotlib.org/)
 	+ [NumPy](https://numpy.org/)
   	+ [pandas](https://pandas.pydata.org/)
+  	+ [PyTorch](https://pytorch.org/)
   	+ [scikit-learn](https://scikit-learn.org/stable/index.html)
   	+ [seaborn](https:/seaborn.pydata.org/)
   	+ [TensorFlow](https://www.tensorflow.org/)
@@ -65,12 +66,11 @@ This repository gathers all the notebooks I used to summarize all the course not
 	+ [x] Supervised Machine Learning
 	+ [X] Advanced Learning Algorithms
 	+ [X] Unsupervised Learning, Recommenders, Reinforcement Learning
-- [ ] Deep Learning Specialization
-	+ [ ] Neural Networks and Deep Learning
-	+ [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-	+ [ ] Structuring Machine Learning Projects
-	+ [ ] Convolutional Neural Networks
-	+ [ ] Sequence Models
+- [X] Deep Learning Nanodegree
+	+ [X] Neural Networks
+	+ [X] Convolutional Neural Networks
+	+ [X] Recurrent Neural Networks
+	+ [X] Generative Adversarial Networks
 - [X] Data Science in Stratified Healthcare and Precision Medicine
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
