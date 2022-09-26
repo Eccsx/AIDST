@@ -52,6 +52,8 @@ This repository gathers all the notebooks I used to summarize all the course not
   	+ [pandas](https://pandas.pydata.org/)
   	+ [scikit-learn](https://scikit-learn.org/stable/index.html)
   	+ [seaborn](https:/seaborn.pydata.org/)
+  	+ [TensorFlow](https://www.tensorflow.org/)
+  	+ [XGBoost](https://xgboost.ai/)
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -59,10 +61,10 @@ This repository gathers all the notebooks I used to summarize all the course not
 
 ## Roadmap
 
-- [ ] Machine Learning Specialization
+- [X] Machine Learning Specialization
 	+ [x] Supervised Machine Learning
 	+ [X] Advanced Learning Algorithms
-	+ [ ] Unsupervised Learning, Recommenders, Reinforcement Learning
+	+ [X] Unsupervised Learning, Recommenders, Reinforcement Learning
 - [ ] Deep Learning Specialization
 	+ [ ] Neural Networks and Deep Learning
 	+ [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
@@ -86,6 +88,10 @@ fedesoriano. (2021, September). Heart Failure Prediction Dataset. Retrieved 20 J
 Matuszewski, Damian; Sintorn, Ida-Maria (2021), “TEM virus dataset”, Mendeley Data, V3, doi: 10.17632/x4dwwfwtw3.3
 
 Zhou, Jingmin et al. (2021), Prediction model of in-hospital mortality in intensive care unit patients with heart failure: machine learning-based, retrospective analysis of the MIMIC-III database, Dryad, Dataset, https://doi.org/10.5061/dryad.0p2ngf1zd
+
+HCV data. (2020). UCI Machine Learning Repository.
+
+Goldstein, Markus, 2015, "annthyroid-unsupervised-ad.tab", Unsupervised Anomaly Detection Benchmark, https://doi.org/10.7910/DVN/OPQMVF/CJURKL, Harvard Dataverse, V1, UNF:6:jJUwpBJ4iBlQto8WT6zsUg== [fileUNF]
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
