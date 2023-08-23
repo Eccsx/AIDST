@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-    <a href="https://github.com/Eccsx/Machine-Learning-Specialization">
+    <a href="https://github.com/Luunynliny/AIDST">
         <img src="https://d3irk3g7luh32r.cloudfront.net/wp-content/uploads/sites/7/2015/06/beach_computer.jpg" alt="Logo" height="80">
     </a>
     <h3 align="center">AI & Data Science Training</h3>
